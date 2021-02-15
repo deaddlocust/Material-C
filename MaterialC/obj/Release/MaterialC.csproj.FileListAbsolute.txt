@@ -1,0 +1,7 @@
+C:\Users\Evan.DEADLOCUST\source\repos\SakuraNET\SakuraNET\bin\Release\MaterialC.exe.config
+C:\Users\Evan.DEADLOCUST\source\repos\SakuraNET\SakuraNET\bin\Release\MaterialC.exe
+C:\Users\Evan.DEADLOCUST\source\repos\SakuraNET\SakuraNET\bin\Release\MaterialC.pdb
+C:\Users\Evan.DEADLOCUST\source\repos\SakuraNET\SakuraNET\obj\Release\MaterialC.csprojAssemblyReference.cache
+C:\Users\Evan.DEADLOCUST\source\repos\SakuraNET\SakuraNET\obj\Release\MaterialC.csproj.CoreCompileInputs.cache
+C:\Users\Evan.DEADLOCUST\source\repos\SakuraNET\SakuraNET\obj\Release\MaterialC.exe
+C:\Users\Evan.DEADLOCUST\source\repos\SakuraNET\SakuraNET\obj\Release\MaterialC.pdb

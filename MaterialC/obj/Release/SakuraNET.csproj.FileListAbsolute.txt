@@ -1,0 +1,7 @@
+C:\Users\Evan.DEADLOCUST\source\repos\SakuraNET\SakuraNET\bin\Release\SakuraNET.exe.config
+C:\Users\Evan.DEADLOCUST\source\repos\SakuraNET\SakuraNET\bin\Release\SakuraNET.exe
+C:\Users\Evan.DEADLOCUST\source\repos\SakuraNET\SakuraNET\bin\Release\SakuraNET.pdb
+C:\Users\Evan.DEADLOCUST\source\repos\SakuraNET\SakuraNET\obj\Release\SakuraNET.csprojAssemblyReference.cache
+C:\Users\Evan.DEADLOCUST\source\repos\SakuraNET\SakuraNET\obj\Release\SakuraNET.csproj.CoreCompileInputs.cache
+C:\Users\Evan.DEADLOCUST\source\repos\SakuraNET\SakuraNET\obj\Release\SakuraNET.exe
+C:\Users\Evan.DEADLOCUST\source\repos\SakuraNET\SakuraNET\obj\Release\SakuraNET.pdb
